@@ -4,3 +4,5 @@
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Nicuse/FrightenedHub/main/Loader.lua', true))()
 ```
+## Games
+--- The Mimic
