@@ -6,6 +6,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Nicuse/FrightenedHub/
 ```
 ## Games
 > The Mimic
-
-
 > Rainbow Friends
